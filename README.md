@@ -9,6 +9,7 @@ Spam randos with this handy Twitter bot
 * Press the extensions dropdown (puzzle piece) on the top right extensions tray, pin Twitter Burnulator
 * Click the bird and flip the slider
 * The first tweet may take up to 90 seconds to start depending on timing
+* You may need to shrink your text size a bit. To avoid pinned tweets it'll take the second tweet which isn't always visible at 100% text size. This won't break anything, it just won't tweet when it can't see the second one.
 
 # To stop
 Click the slider back to off to stop going to new pages and tweeting. This won't stop a tweet already being typed
